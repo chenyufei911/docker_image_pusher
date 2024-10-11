@@ -1,3 +1,4 @@
 hello-world
 evil0ctal/douyin_tiktok_download_api
 subzeroid/instagrapi-rest
+python:3.10
