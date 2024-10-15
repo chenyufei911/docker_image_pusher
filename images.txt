@@ -1,3 +1,2 @@
-hello-world
-python:3.10
-python:3.10-slim
+--platform=linux/amd64 python:3.10
+--platform=linux/arm64 python:3.10
