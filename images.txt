@@ -1,1 +1,1 @@
-vincentqin/image-matching-webui:latest
+mysql:8.0
