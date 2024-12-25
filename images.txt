@@ -1,2 +1,3 @@
-1995chen/dnf:centos5-latest
-1995chen/dnf:centos7-latest
+1995chen/dnf:centos7-2.1.4.fix1
+1995chen/dnf:centos6-2.1.4.fix1
+1995chen/dnf:centos5-2.1.4.fix1
